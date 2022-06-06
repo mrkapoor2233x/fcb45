@@ -1,0 +1,8 @@
+[General]
+path_to_gclone =./fclone
+
+telegram_token = 5502080654:AAFQ0mTPN4ySP0qtMOXGABY_VRYFHMcD6Rg
+user_ids = 1845577904,1737905885
+group_ids = 
+
+gclone_para_override =
